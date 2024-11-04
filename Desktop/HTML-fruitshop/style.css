@@ -1,0 +1,70 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/AJQWtBOrqrUnEYgXzSl9dC9yawcNyndw0ni9BvSbrs_-99hYtEiYcSvnIZHw7ms3zo-kNqsbKyvWZPcrH7God8aeRckUGjEMh5tsTPW2eMZUhKb5TMY=w2476-h1212);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    background-color: #9E9494;
+    width: auto;
+    height: auto;
+    margin-left: 270px;
+    margin-right: 270px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+h1{
+    padding-top: 24px;
+    text-align: center;
+    size: 48px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.established{
+    text-align: center;
+    size: 48px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+h2{
+    padding-top: 40px;
+    size: 38px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    padding-top: 40px;
+    size: 38px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.item p{
+display: inline-block;
+font-family: 'Roboto', sans-serif;
+color: white;
+}
+
+.food{
+    text-align: left; 
+    padding-left: 24px;  
+    font-size: 24px;
+    width: 100%;
+    font-size: 24px;
+}
+
+.price{
+    text-align: right;
+    padding-right: 24px;
+    width: 98%;
+    font-size: 24px;
+}
